@@ -1,0 +1,152 @@
+{
+  "Oval": [
+    {
+      "name": "Classic Fade",
+      "description": "A clean taper fade that highlights your balanced proportions. Oval faces carry almost any cut — this one keeps it sharp.",
+      "overlay": "fade",
+      "tags": ["short", "clean", "professional"]
+    },
+    {
+      "name": "Textured Quiff",
+      "description": "Volume on top with tapered sides. Your symmetrical face shape lets this style shine without overwhelming your features.",
+      "overlay": "quiff",
+      "tags": ["medium", "textured", "modern"]
+    },
+    {
+      "name": "Side Part",
+      "description": "A timeless cut that flatters oval faces. Clean lines and a defined part give you a polished, versatile look.",
+      "overlay": "side_part",
+      "tags": ["classic", "versatile", "business"]
+    },
+    {
+      "name": "Buzz Cut",
+      "description": "Oval faces are one of the few that look great with very short cuts. Clean, minimal, and confident.",
+      "overlay": "buzz",
+      "tags": ["short", "minimal", "bold"]
+    }
+  ],
+  "Round": [
+    {
+      "name": "High Fade with Volume",
+      "description": "Height on top elongates your face visually. Keeping the sides tight draws the eye up and creates the illusion of length.",
+      "overlay": "high_fade",
+      "tags": ["short", "modern", "elongating"]
+    },
+    {
+      "name": "Angular Fringe",
+      "description": "Sharp angles and a forward-swept fringe add structure to rounder features. Avoids adding width at the sides.",
+      "overlay": "fringe",
+      "tags": ["medium", "angular", "structured"]
+    },
+    {
+      "name": "Pompadour",
+      "description": "Classic volume up top with close-cropped sides. The vertical height counterbalances the width of a round face.",
+      "overlay": "pompadour",
+      "tags": ["medium", "vintage", "dramatic"]
+    },
+    {
+      "name": "Mohawk Fade",
+      "description": "A central strip of length with faded sides creates a strong vertical line. Bold and face-lengthening.",
+      "overlay": "mohawk",
+      "tags": ["short", "bold", "edgy"]
+    }
+  ],
+  "Square": [
+    {
+      "name": "Textured Crop",
+      "description": "Soft, textured layers on top soften a strong jawline. The crop length keeps it modern without fighting your natural structure.",
+      "overlay": "crop",
+      "tags": ["short", "soft", "modern"]
+    },
+    {
+      "name": "Layered Waves",
+      "description": "Natural waves and movement break up the angularity of a square face. Longer length draws attention away from the jaw.",
+      "overlay": "waves",
+      "tags": ["medium", "natural", "relaxed"]
+    },
+    {
+      "name": "Undercut",
+      "description": "Shaved or closely cropped sides with longer length on top. The contrast emphasizes your strong bone structure in a controlled way.",
+      "overlay": "undercut",
+      "tags": ["medium", "contrast", "strong"]
+    },
+    {
+      "name": "Messy Quiff",
+      "description": "A deliberately undone quiff introduces softness and movement. The messy texture counterbalances sharp jawline definition.",
+      "overlay": "messy_quiff",
+      "tags": ["medium", "casual", "textured"]
+    }
+  ],
+  "Heart": [
+    {
+      "name": "Side Swept Bangs",
+      "description": "Sweeping volume toward the forehead narrows its appearance. This cut balances a wider forehead against a narrower chin.",
+      "overlay": "side_swept",
+      "tags": ["medium", "balancing", "soft"]
+    },
+    {
+      "name": "Chin-Length Bob",
+      "description": "Adding width at the chin with a bob balances the heart shape's natural narrowing. Frames the face beautifully.",
+      "overlay": "bob",
+      "tags": ["medium", "classic", "balancing"]
+    },
+    {
+      "name": "Low Fade",
+      "description": "Keeps width minimal up top to avoid emphasizing the wide forehead. Clean and understated.",
+      "overlay": "low_fade",
+      "tags": ["short", "minimal", "clean"]
+    },
+    {
+      "name": "Curtain Bangs",
+      "description": "Center-parted bangs that fall to the sides soften a broad forehead and draw the eye to your eyes instead.",
+      "overlay": "curtain",
+      "tags": ["medium", "soft", "romantic"]
+    }
+  ],
+  "Diamond": [
+    {
+      "name": "Soft Fringe",
+      "description": "A forward fringe adds width to a narrow forehead, balancing diamond proportions from the top down.",
+      "overlay": "soft_fringe",
+      "tags": ["medium", "balancing", "soft"]
+    },
+    {
+      "name": "Full Volume Top",
+      "description": "Building volume at the crown counterbalances prominent cheekbones. Keeps the widest point from being the focus.",
+      "overlay": "full_volume",
+      "tags": ["medium", "volume", "dramatic"]
+    },
+    {
+      "name": "Shaggy Layers",
+      "description": "Layered length with texture softens angular cheekbones. The natural movement makes diamond features read as chiseled, not sharp.",
+      "overlay": "shaggy",
+      "tags": ["long", "relaxed", "textured"]
+    }
+  ],
+  "Long": [
+    {
+      "name": "Side Part with Volume",
+      "description": "Horizontal volume through a side part adds width, visually shortening a long face. Sweep to the side, not up.",
+      "overlay": "side_volume",
+      "tags": ["medium", "widening", "classic"]
+    },
+    {
+      "name": "Curly Afro",
+      "description": "Natural volume that expands sideways rather than vertically. Ideal for widening a long face shape.",
+      "overlay": "afro",
+      "tags": ["natural", "volume", "bold"]
+    },
+    {
+      "name": "Blunt Fringe",
+      "description": "A straight-across fringe shortens the visual length of the face. One of the most effective techniques for long face shapes.",
+      "overlay": "blunt_fringe",
+      "tags": ["short", "structured", "shortening"]
+    },
+    {
+      "name": "Layered Medium Cut",
+      "description": "Medium length with horizontal layers creates width. Avoid adding height on top — go for movement at the sides.",
+      "overlay": "layered_medium",
+      "tags": ["medium", "layered", "widening"]
+    }
+  ]
+}
